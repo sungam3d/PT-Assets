@@ -1,0 +1,2 @@
+*지형모델 		castle\castle.ase		34769	 -23062
+*지형물체		castle\wf_gate_ani.ase
