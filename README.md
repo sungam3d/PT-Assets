@@ -8,11 +8,9 @@
 
 ## Planned
 
-* Add Items
+* Add Items (WIP)
 * Add Characters
 * Add Monsters
-* Add Music
-* Add Sound Effects
 * Add Blender project files
 * Convert all meshes to OBJ/FBX
 * Convert all textures to PNG
@@ -69,13 +67,5 @@
 TBA
 
 # Monsters
-
-TBA
-
-# Music
-
-TBA
-
-# Sound Effects
 
 TBA
